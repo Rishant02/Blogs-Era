@@ -1,1 +1,1 @@
-_Blog website created using React_
+Real time blog website using Firebase
